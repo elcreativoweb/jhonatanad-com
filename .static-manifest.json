@@ -1,0 +1,12 @@
+{
+    "domain": "jhonatanad.com",
+    "base_url": "http:\/\/jhonatanad.com",
+    "pages": 42,
+    "assets": 0,
+    "total_files": 42,
+    "total_size_mb": 6.54,
+    "output_dir": "\/tmp\/static-export\/jhonatanad.com",
+    "pages_failed": [],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 16:12:06"
+}
